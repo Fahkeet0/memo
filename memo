@@ -1,0 +1,1 @@
+gcc -fPIC -Wall -c -I/usr/local/include/python3.8 test_wrap.c
